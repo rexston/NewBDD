@@ -16,7 +16,7 @@ namespace EmployeeProject
         [AfterScenario]
         public void AfterScenario()
         {
-            Console.WriteLine("After scenario");
+            Console.WriteLine("After scenario:");
         }
     }
 }
