@@ -19,7 +19,6 @@ namespace Employee.Steps
         private List<Model.Employee> allEmployees = new List<Model.Employee>();
         private ScenarioContext sc;
         private EmployeeStepSrgumentTransformation empStepArg = new EmployeeStepSrgumentTransformation();
-        //public Model.Employee objEmp = new Model.Employee();
         private static bool isStepExecuted = false;
 
         [Given(@"insert employee details")]

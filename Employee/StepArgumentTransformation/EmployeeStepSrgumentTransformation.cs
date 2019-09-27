@@ -14,7 +14,7 @@ namespace Employee.StepArgumentTransformation
         public static List<Model.Employee> employees = new List<Model.Employee>();
 
         [StepArgumentTransformation(@"(\d+)")]
-        public Model.Employee Demo(int id)
+        public Model.Employee FindEmployeeById(int id)
         {
             foreach (var emp in employees)
             {
@@ -28,7 +28,7 @@ namespace Employee.StepArgumentTransformation
         }
 
         [StepArgumentTransformation()]
-        public List<Model.Employee> StepArgTransformation(Table table)
+        public List<Model.Employee> GetEmployeeListFromTable(Table table)
         {
             employees = table.CreateSet<Model.Employee>().ToList();
             return employees;

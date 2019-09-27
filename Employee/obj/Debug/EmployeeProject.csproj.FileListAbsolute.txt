@@ -20,3 +20,25 @@ C:\Users\snayak\source\repos\Employee\Employee\bin\Debug\nunit.framework.pdb
 C:\Users\snayak\source\repos\Employee\Employee\bin\Debug\nunit.framework.xml
 C:\Users\snayak\source\repos\Employee\Employee\obj\Debug\EmployeeProject.csprojAssemblyReference.cache
 C:\Users\snayak\source\repos\Employee\Employee\obj\Debug\EmployeeProject.csproj.CopyComplete
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Employee.dll.config
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Employee.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Employee.pdb
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Newtonsoft.Json.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\nunit.framework.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\System.ValueTuple.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\TechTalk.SpecFlow.dll
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\Newtonsoft.Json.xml
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\nunit.framework.pdb
+D:\Employee BDD Project\NewBDD\Employee\bin\Debug\nunit.framework.xml
+D:\Employee BDD Project\NewBDD\Employee\obj\Debug\EmployeeProject.csprojAssemblyReference.cache
+D:\Employee BDD Project\NewBDD\Employee\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+D:\Employee BDD Project\NewBDD\Employee\obj\Debug\EmployeeProject.csproj.CopyComplete
+D:\Employee BDD Project\NewBDD\Employee\obj\Debug\Employee.dll
+D:\Employee BDD Project\NewBDD\Employee\obj\Debug\Employee.pdb
